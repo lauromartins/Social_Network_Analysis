@@ -1,0 +1,2 @@
+# Social_Network_Analysis
+Este projeto é parte integrante do curso Big Data Analytics com R e Microsoft Azure da Formação Cientista de Dados da DSA. O objetivo é capturar dados do Twitter e realizar análise de sentimentos. Para isso, utiliza-se um cálculo de score de sentimento (AnaliseRedeSocial.R). Adicionalmente, utiliza-se um classificador com o algoritmo Naive Bayes para realizar a análise de sentimentos comparando em países diferentes (AnaliseRedeSocial_naiveBayes.R). Todos os códigos estão devidamente comentados.
